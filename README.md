@@ -1,0 +1,70 @@
+# 🐴 Farm Horses Game - Agro Meta W3
+
+Webapp multijugador de simulación de granjas de cría de caballos con tokens Solana AMW3.
+
+## 🎮 Características
+
+- **Granjas**: 4 niveles (Bronce, Plata, Oro, Diamante) - 500.000 tokens cada una
+- **Centro Comercial**: 120 locales con 4 niveles - 50 millones de tokens totales
+- **Hipódromo**: Carreras 24/7 con IA y apuestas
+- **Subastas**: 24/7 con IA
+- **Banco**: Gestión de tokens Solana AMW3
+- **Multijugador**: Tiempo real con WebSockets
+- **2.5D**: Mapa interactivo con movimiento del avatar
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- React 18 + TypeScript
+- Vite
+- TailwindCSS
+- Phaser 3 (para gráficos avanzados)
+- Web3.js (Solana)
+
+**Backend:**
+- Node.js + Express
+- MongoDB
+- WebSocket (Socket.io)
+- Anchor Framework (Solana Smart Contracts)
+
+## 📋 Requisitos
+
+- Node.js 18+
+- npm o yarn
+- Solana Devnet/Testnet configurado
+- Token AMW3 creado en Solana
+
+## 🚀 Instalación
+
+### Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+### Backend
+```bash
+cd backend
+npm install
+npm run dev
+```
+
+## 💰 Tokens Solana
+
+**Token AMW3:** 50.000.000 tokens disponibles
+- Dirección Mint: `[Insertar dirección aquí]`
+- Decimals: 6
+- Red: Solana Mainnet/Testnet
+
+## 📖 Documentación
+
+Ver `/docs/GUIA_DESARROLLO.md` para más detalles.
+
+## 👨‍💼 Autor
+
+Jose (65 años) - Creador del proyecto Agro Meta W3
+
+## 📝 Licencia
+
+MIT
