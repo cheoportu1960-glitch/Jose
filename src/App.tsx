@@ -1,5 +1,6 @@
 import React from 'react';
-import GameMap from './GameMap';
+import GameMap from'./components/GameMap';
+ 
 import './index.css';
 
 function App() {
