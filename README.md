@@ -4,8 +4,8 @@ Webapp multijugador de simulación de granjas de cría de caballos con tokens So
 
 ## 🎮 Características
 
-- **Granjas**: 4 niveles (Bronce, Plata, Oro, Diamante) - 500.000 tokens cada una
-- **Centro Comercial**: 120 locales con 4 niveles - 50 millones de tokens totales
+- **Granjas**: 4 niveles (Bronce,1caballo metraje30m2,precio20AMW3,gasto mensuales 2AMW3 Plata,2 caballos,metraje,60m2,precio 40AMW3,gastos mensuales,5AMW3 Oro,3caballos,metraje,90m2,precio 60AMW3,gastos mensuales 9AMW3 Diamante,4caballos,metraje 120m2precio,90AMW3 gastos mensuales 14AMW3) -son 500.000,granjas,divididas en 4 niveles, bronce,100mil, plata 30mil, oro 10mil, Diamante 10mil 
+- **Centro Comercial**: 120 locales con 4 niveles  bronce30 locales-30m2 alquiler 20AMW  plata 30 locales 30m2 alquiler 40AMW3 oro 30 locales 60m2 alquiler 60AMW3 Diamante 30 locales 90m2 alquiler 90AMW3  50 millones de tokens totales para trabajar todo el ecositema
 - **Hipódromo**: Carreras 24/7 con IA y apuestas
 - **Subastas**: 24/7 con IA
 - **Banco**: Gestión de tokens Solana AMW3
