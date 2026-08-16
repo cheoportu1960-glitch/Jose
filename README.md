@@ -10,7 +10,7 @@ Webapp multijugador de simulación de granjas de cría de caballos con tokens So
 - **Subastas**: 24/7 con IA
 - **Banco**: Gestión de tokens Solana AMW3
 - **Multijugador**: Tiempo real con WebSockets
-- **2.5D**: Mapa interactivo con movimiento del avatar
+- **2.5D**: Mapa interactivo con movimiento del avatar Distribucion de ingresos del ecosistema Banco/Reserva 60%  Marketing 10% Desarrolladores 10% Mantenimiento 5% y ceo fundador 15% 
 
 ## 🛠️ Tech Stack
 
