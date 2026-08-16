@@ -10,7 +10,7 @@ Webapp multijugador de simulación de granjas de cría de caballos con tokens So
 - **Subastas**: 24/7 con IA
 - **Banco**: Gestión de tokens Solana AMW3
 - **Multijugador**: Tiempo real con WebSockets
-- **2.5D**: Mapa interactivo con movimiento del avatar Distribucion de ingresos del ecosistema Banco/Reserva 60%  Marketing 10% Desarrolladores 10% Mantenimiento 5% y ceo fundador 15% Reglas del usuario, 1 Entrada y Registro conectar wallet de solana (phantom o similar).Cambiar sol por tokens AMW3 para jugar. 2 Comprar y Criar Compra granja segun nivel.y espacio.pagar AMW3 para cruzar y criar caballos paga incriccion para subastas y carreras. 3 Carreras,Apuestas y Casino, Competir en en carreras con IA para ganar tokens. Apostar en vivo por webSockets en el domo. Subastar caballos NFT en el mercado 24/7. Usar el casino con reglas de juego lipio. 4. Banco y Retiro Ir al banco para cambiar AMW3 por SOL/USDC. Se cobra un pequeño fee para cuidar la econimia.
+- **2.5D**: Mapa interactivo con movimiento del avatar Distribucion de ingresos del ecosistema Banco/Reserva 60%  Marketing 10% Desarrolladores 10% Mantenimiento 5% y ceo fundador 15% Reglas del usuario, 1 Entrada y Registro conectar wallet de solana (phantom o similar).Cambiar sol por tokens AMW3 para jugar. 2 Comprar y Criar Compra granja segun nivel.y espacio.pagar AMW3 para cruzar y criar caballos paga inscripciones para subastas y carreras. 3 Carreras,Apuestas y Casino, Competir en en carreras con IA para ganar tokens. Apostar en vivo por webSockets en el domo. Subastar caballos NFT en el mercado 24/7. Usar el casino con reglas de juego lipio. 4. Banco y Retiro Ir al banco para cambiar AMW3 por SOL/USDC. Se cobra un pequeño fee para cuidar la econimia.
 
 ## 🛠️ Tech Stack
 
