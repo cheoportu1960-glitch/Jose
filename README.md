@@ -63,7 +63,7 @@ Ver `/docs/GUIA_DESARROLLO.md` para más detalles.
 
 ## 👨‍💼 Autor
 
-Jose (65 años) - Creador del proyecto Agro Meta W3
+Jose (62 años) - Creador del proyecto Agro Meta W3
 
 ## 📝 Licencia
 
