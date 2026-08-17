@@ -1,5 +1,5 @@
 import React from 'react';
-import GameMap from'./Components/GameMap';
+import GameMap from'./Componentes/GameMap';
  
 import './index.css';
 
